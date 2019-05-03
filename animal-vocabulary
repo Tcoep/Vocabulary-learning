@@ -1,12 +1,8 @@
 elephant 
-ivory--象牙
-tusk--长牙
+ivory #象牙
+tusk #长牙
 
-
-
-
-
-buffalo--水牛
+buffalo #水牛
 
 cow
 
@@ -27,6 +23,25 @@ pig
 dog
 
 chicken
+
+cock #公鸡
+
+hen #母鸡
+
+duck
+
+mouse
+
+sheep
+
+rabbit
+
+dragon
+
+snake
+
+
+
 
 
 
